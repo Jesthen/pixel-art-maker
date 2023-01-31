@@ -1,0 +1,23 @@
+.canvas {
+  background: grey;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.controls {
+  display: flex;
+}
+
+.color-picker {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+  border-radius: 50%;
+  border-radius: 50%;
+  border-width: 1px;
+  border-style: solid;
+}
+
+input {
+  text-align: center;
+}
